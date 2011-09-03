@@ -8,8 +8,9 @@
     "type": "git",
     "url": "git://github.com/nojs/predicate.git"
   },
+  "main":"./index.js",
   "engines": {
-    "node": "~v0.5.1"
+    "node": ">=0.4"
   },
   "dependencies": {},
   "devDependencies": {}
