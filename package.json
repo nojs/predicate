@@ -1,0 +1,16 @@
+{
+  "author": "Dmitry Unkovksy <oil.crayons@gmail.com>",
+  "name": "predicate",
+  "description": "trivial predicates to aid list tossing",
+  "version": "0.0.1",
+  "homepage": "http://nojs.be/predicate",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nojs/predicate.git"
+  },
+  "engines": {
+    "node": "~v0.5.1"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
